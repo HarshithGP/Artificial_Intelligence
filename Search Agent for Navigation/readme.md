@@ -1,3 +1,3 @@
-• Developed an ArtificiaI Intelligence agent in Java to find the optimal route from the source to destination using the algorithm specified in the input text file.
-• Comprehensively analysed the performances and optimality of various informed(A*, UCS) and uninformed( BFS, DFS, Dijkstra) search algorithms to determine the best graph traversal procedure.
-• Algorithms used : Breadth First Search, Depth First Search, Uniform Cost Search, A*, Dijkstra
+- Developed an ArtificiaI Intelligence agent in Java to find the optimal route from the source to destination using the algorithm specified in the input text file.
+- Comprehensively analysed the performances and optimality of various informed(A*, UCS) and uninformed( BFS, DFS, Dijkstra) search algorithms to determine the best graph traversal procedure.
+- Algorithms used : Breadth First Search, Depth First Search, Uniform Cost Search, A*, Dijkstra
