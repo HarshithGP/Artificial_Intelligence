@@ -1,0 +1,3 @@
+- Developed an AI agent for first order logic entailment from a knowledge base using resolution algorithms.
+- Given a knowledge base and a set of queries, the agent infers whether the query is entailed by the knowledge base or not. 
+- The preprocessing involves lexical parsing of the the knowledge base followed by negation and/or unification of the clauses derived from the knowledge base to determine entailment using resolution.
